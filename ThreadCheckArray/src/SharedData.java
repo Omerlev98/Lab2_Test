@@ -6,6 +6,7 @@ public class SharedData
 	private final int b;
 	
 	//Hello Matan
+	//Hello Omer 
 
 	public SharedData(int[] array, int b) {
 		
